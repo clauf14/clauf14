@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furtea Claudiu</h1>
 <h3 align="center">A passionate future Software Developer | Software Engineer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clauf14&label=Profile%20views&color=0e75b6&style=flat" alt="clauf14" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clauf14" alt="clauf14" /></a> </p>
-
 - 🔭 I’m currently working on [Appointment Aplication](https://github.com/clauf14/Appointment-Aplication-in-Java)
 
 - 🌱 I’m currently learning **Spring, React, Next.js**
@@ -23,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/claudiu-furtea-1a832225a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/claudiu-furtea-1a832225a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/claudiu-furtea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudiu-furtea" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/clauf14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="clauf14" height="30" width="40" /></a>
 </p>
 
