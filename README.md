@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furtea Claudiu</h1>
-<h3 align="center">A passionate future Software Developer | Software Engineer!</h3>
+<h3 align="center">A passionate student, future Software Developer | Software Engineer!</h3>
 
 - 🔭 I’m currently working on [Appointment Aplication - Java](https://github.com/clauf14/Appointment-Aplication-in-Java)
 
