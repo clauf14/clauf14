@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Appointment Aplication](https://github.com/clauf14/Appointment-Aplication-in-Java)
 
-- 🌱 I’m currently learning **Spring, React, Next.js**
+- 🌱 I’m currently learning **Javascript, Next.js, MongoDB**
 
 - 👯 I’m looking to collaborate on **Internships, Projects**
 
