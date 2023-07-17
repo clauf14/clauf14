@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, Next.js, MongoDB**
 
-- 👯 I’m looking to collaborate on **Internships, Projects**
+- 👯 I’m looking to collaborate on **Internships, Projects (Personal or team related)**
 
 - 🤝 I’m looking for help with **diving deeply in Java, Python, Javascript**
 
