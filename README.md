@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furtea Claudiu</h1>
 <h3 align="center">A passionate student, future Software Developer | Software Engineer!</h3>
 
-- 🔭 I’m currently working on [Weather App - Java and Spring Boot]()
+- 🔭 I’m currently working on [Weather App - Java and Spring Boot](https://github.com/clauf14/Weather-app-Java-and-Spring-Boot)
 
 - 🌱 I’m currently learning **Spring Framework**
 
