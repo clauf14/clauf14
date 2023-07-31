@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Weather App - Java and Spring Boot](https://github.com/clauf14/Weather-app-Java-and-Spring-Boot)
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **Internships, Projects(personal or team related)**
 
