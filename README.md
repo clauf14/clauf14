@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Form with automatic email sender - Java and Spring Boot](https://github.com/clauf14/Form-and-AutoEmailSender-with-Java-and-Spring-Boot)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **JavaScript and related frameworks**
 
 - 👯 I’m looking to collaborate on **Internships, Projects(personal or team related)**
 
