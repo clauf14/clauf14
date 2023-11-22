@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furtea Claudiu</h1>
 <h3 align="center">A passionate student, future Software Developer | Software Engineer!</h3>
 
-- 🔭 I’m currently working on [Form with automatic email sender - Java and Spring Boot](https://github.com/clauf14/Form-and-AutoEmailSender-with-Java-and-Spring-Boot)
+- 🔭 I’m currently working on [Clasic Web App - Sport Products Store](https://github.com/clauf14/Sports-Product-Store)
 
 - 🌱 I’m currently learning **JavaScript and related frameworks**
 
