@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Internships, Projects(personal or team related)**
 
-- 🤝 I’m looking for help with **diving deeply in Java, Python, Javascript**
+- 🤝 I’m looking for help with **diving deeply in Java, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/clauf14?tab=repositories](https://github.com/clauf14?tab=repositories)
 
