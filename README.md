@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Furtea Claudiu</h1>
 <h3 align="center">A passionate student, future Software Developer | Software Engineer!</h3>
 
-- 🔭 I’m currently working on [Modern Fullstack Web App - City Explorer](https://github.com/clauf14/modern-web-app-city-explorer)
+- 🔭 I’m currently working on [Fullstack App in Java with Spring and React](https://github.com/clauf14/fullstack-app-spring-react)
 
-- 🌱 I’m currently learning **JavaScript and related frameworks**
+- 🌱 I’m currently learning **JavaScript, Spring, React**
 
 - 👯 I’m looking to collaborate on **Internships, Projects(personal or team related)**
 
