@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-<table>
+<table style="background-color: white;">
   <tr>
     <td align="center" width="50" height="50" style="background-color: white;">
       <a href="https://www.arduino.cc/" target="_blank">
